@@ -31,6 +31,7 @@ public class Lambda {
         System.out.println("just");
 
         System.out.println("just");
+        System.out.println("just");
 
     }
 
