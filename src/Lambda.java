@@ -27,7 +27,8 @@ public class Lambda {
 
         SortLambda lambda2 = car2 -> System.out.println((car2.getAge() > 4? car2.getAge():""));
         lambdatest.sortList(lambda2, list);
-
+        System.out.println("just");
+        System.out.println("just");
 
     }
 
